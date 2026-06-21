@@ -1,2 +1,14 @@
 # igame-result-journal
-HTML page archive and documentation
+
+公开页面文件归档
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
